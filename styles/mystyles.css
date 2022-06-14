@@ -1,0 +1,26 @@
+h1{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subheading{
+    color: whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color:#8FBC8F;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+h3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    color:#035283;
+    font-family: 'Times New Roman', Times, serif;
+}
+
